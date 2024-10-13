@@ -16,6 +16,6 @@ Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) q
 ![My Skills](https://skillicons.dev/icons?i=mysql)
 
 ### Contato:
-[![My Skills](https://skillicons.dev/icons?i=gmail)](araujoandresa58@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://www.araujoandresa58@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andresa-araújo)
 
