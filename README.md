@@ -10,6 +10,7 @@ Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) q
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 👩🏻‍💻 Habilidades que pretendo aprender:
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andresa-araujo19&theme=default&locale=pt-br)](https://git.io/streak-stats)
