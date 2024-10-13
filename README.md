@@ -15,3 +15,7 @@ Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) q
 ### 👩🏻‍💻 Habilidades que pretendo desenvolver:
 ![My Skills](https://skillicons.dev/icons?i=mysql)
 
+### Contato:
+[![My Skills](https://skillicons.dev/icons?i=gmail)](araujoandresa58@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
