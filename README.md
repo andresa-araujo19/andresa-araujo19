@@ -3,7 +3,7 @@
 Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) que resolveu estudar análise de dados.
 
 ### Estatísticas:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresa-araujo19&show_icons=true&theme=dracula&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresa-araujo19&show_icons=true&theme=transparent&locale=pt-br)
 
 ### 👩🏻‍💻 Habilidades em desenvolvimento:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
