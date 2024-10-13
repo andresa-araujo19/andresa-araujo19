@@ -13,5 +13,5 @@ Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) q
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 👩🏻‍💻 Habilidades que pretendo desenvolver:
-[![My Skills](https://skillicons.dev/icons?i=mysql)]
+![My Skills](https://skillicons.dev/icons?i=mysql)
 
