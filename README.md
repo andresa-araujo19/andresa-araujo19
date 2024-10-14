@@ -15,6 +15,9 @@ Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) q
 ### Habilidades que pretendo desenvolver:
 ![My Skills](https://skillicons.dev/icons?i=mysql)
 
+### Ambientes de Desenvolvimento:
+![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,rstudio)
+
 ### Contato:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:araujoandresa58@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andresa-araújo)
