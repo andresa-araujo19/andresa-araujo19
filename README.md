@@ -1,16 +1,37 @@
-##  👋🏻 Olá! Sou Andresa Araújo
-🌟 Estudante de Ciências Econômicas que resolveu estudar análise de dados.
+<h2 align="left">👋🏻 Olá! Sou Andresa Araújo</h2>
 
-### Tecnologias em desenvolvimento:
-![My Skills](https://skillicons.dev/icons?i=py,r)
-<img alt="[Excel]" height="47" width="47" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg">
+###
 
+<p align="left">🌟 Estudante de Ciências Econômicas que resolveu estudar análise de dados.</p>
 
-### Ambientes de Desenvolvimento:
-![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,rstudio)
+###
 
+<h3 align="left">Tecnologias em desenvolvimento:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andresa-araujo19&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andresa-araujo19&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="100" alt="streak graph"  />
+</div>
+
+###
 ### Contato:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:araujoandresa58@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andresa-araújo)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresa-araujo19&layout=compact&locale=pt-br)
