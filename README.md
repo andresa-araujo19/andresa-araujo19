@@ -12,5 +12,5 @@
 ### Contato:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:araujoandresa58@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andresa-araújo)
-
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresa-araujo19&layout=compact&locale=pt-br)
