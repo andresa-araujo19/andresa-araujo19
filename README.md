@@ -1,6 +1,6 @@
 ##  👋🏻 Olá! Sou Andresa Araújo
 ### 🌟 Sobre mim:
-Sou uma estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) que resolveu estudar análise de dados.
+Sou uma estudante de Ciências Econômicas da Universidade Federal do Ceará (UFC) que resolveu estudar análise de dados.
 
 ### Tecnologias em desenvolvimento:
 ![My Skills](https://skillicons.dev/icons?i=py,r)
