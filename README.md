@@ -1,5 +1,5 @@
 ##  👋🏻 Olá! Sou Andresa Araújo
-### 🌟 Estudante de Ciências Econômicas que resolveu estudar análise de dados.
+🌟 Estudante de Ciências Econômicas que resolveu estudar análise de dados.
 
 ### Tecnologias em desenvolvimento:
 ![My Skills](https://skillicons.dev/icons?i=py,r)
