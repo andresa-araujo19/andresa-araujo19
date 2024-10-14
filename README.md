@@ -4,7 +4,7 @@ Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) q
 
 ### Estatísticas:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=andresa-araujo19&theme=dark&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=andresa-araujo19&theme=dracula&locale=pt-br)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresa-araujo19&show_icons=true&theme=dark&locale=pt-br)
 
