@@ -4,8 +4,8 @@ Estudante de Ciências Econômicas que resolveu estudar análise de dados.
 
 ### Tecnologias em desenvolvimento:
 ![My Skills](https://skillicons.dev/icons?i=py,r)
+<img alt="[Excel]" height="47" width="47" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg">
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Ambientes de Desenvolvimento:
 ![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,rstudio)
