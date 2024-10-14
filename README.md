@@ -10,14 +10,9 @@ Sou estudante de Ciências Econômicas na Universidade Federal do Ceará (UFC) q
 
 ### Habilidades em desenvolvimento:
 ![My Skills](https://skillicons.dev/icons?i=py,r)
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<div align="center">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg"> 
-</div>
-
-### Habilidades que pretendo desenvolver:
-![My Skills](https://skillicons.dev/icons?i=mysql)
 
 ### Ambientes de Desenvolvimento:
 ![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,rstudio)
