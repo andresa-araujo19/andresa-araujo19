@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌟 Estudante de Ciências Econômicas que resolveu estudar análise de dados.</p>
+<p align="left">🌟 Estudante de Ciências Econômicas.</p>
 
 ###
 
